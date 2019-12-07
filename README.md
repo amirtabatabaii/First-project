@@ -1,2 +1,2 @@
-# portofilo
-this is my sample portofilo
+# Sample
+this is my first Javascript code!
